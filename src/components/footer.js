@@ -23,7 +23,7 @@ function AppFooter() {
 
   return (
     <Container fluid>
-      <div className="copyright">&copy; 2023 Corporate. All Right Reserved by <a href="https://17h4ck3r11-portfolio.netlify.app/">Amit Kumar Gupta</a>}}.</div>
+      <div className="copyright">&copy; 2023 Corporate. All Right Reserved by <a href="https://17h4ck3r11-portfolio.netlify.app/">Amit Kumar Gupta</a>.</div>
       <div className="socials">
         <ul>
           <li><a href="https://www.facebook.com"><i className="fab fa-facebook-f"></i></a></li>
