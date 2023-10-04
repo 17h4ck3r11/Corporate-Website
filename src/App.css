@@ -1176,3 +1176,8 @@ textarea {
     margin: 0;
   }
 }
+
+.copyright > a {
+  text-decoration: none;
+  color: white;
+}
